@@ -1,0 +1,18 @@
+# Environnements virtuels
+venv/
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
+
+# Fichiers audio temporaires de Whisper
+*.wav
+*.mp3
+temp_audio/
+
+# Fichiers système macOS
+.DS_Store
+
+# Ton Vault Obsidian
+JarvisVault/
